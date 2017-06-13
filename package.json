@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/superyyl/Meowth/issues"
   },
-  "homepage": "https://github.com/superyyl/Meowth#readme"
+  "homepage": "https://github.com/superyyl/Meowth#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1"
+  }
 }
